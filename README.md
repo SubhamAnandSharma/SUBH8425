@@ -1,14 +1,15 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]
 
 <h1 align="center">Hi 👋, I'm Subham Sharma</h1>
 <h3 align="center">A passionate Web developer(Backend developer) from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47u0udms5dfwdim9wbiflcur5s2hn1eg2fz7bk8kde&rid=giphy.gif&ct=g">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subh8425&label=Profile%20views&color=0e75b6&style=flat" alt="subh8425" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subhamsharma210" target="blank"><img src="https://img.shields.io/twitter/follow/subhamsharma210?logo=twitter&style=for-the-badge" alt="subhamsharma210" /></a> </p>
+
+- I am a highly detail-oriented and organized Java backend developer with excellent technical and communication skills. Passionate about coding and Self-motivated with a keen interest in building user-centric products. I just completed an Intensive Full Stack Web Development Bootcamp from Masai School. with 1200+ hours of coding and 100+ hours soft skills training. Looking forward to utilising my skills in a challenging work environment. I like to help people, solve their problem and bring smile on their face.
 
 - 🔭 I’m currently working on **Spring Boot**
 
