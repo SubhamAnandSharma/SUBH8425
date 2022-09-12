@@ -5,21 +5,21 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh8425&label=Profile%20views&color=0e75b6&style=flat" alt="subh8425" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subhamsharma210" target="blank"><img src="https://img.shields.io/twitter/follow/subhamsharma210?logo=twitter&style=for-the-badge" alt="subhamsharma210" /></a> </p>
 
 - I am a highly detail-oriented and organized Java backend developer with excellent technical and communication skills. Passionate about coding and Self-motivated with a keen interest in building user-centric products. I just completed an Intensive Full Stack Web Development Bootcamp from Masai School. with 1200+ hours of coding and 100+ hours soft skills training. Looking forward to utilising my skills in a challenging work environment. I like to help people, solve their problem and bring smile on their face.
 
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Collection Framework**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **HTML, CSS, Core JAVA, Spring Boot**
 
 - 📫 How to reach me **mrsubham595@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh8425&label=Profile%20views&color=0e75b6&style=flat" alt="subh8425" /> </p>
 
+<p align="left"> <a href="https://twitter.com/subhamsharma210" target="blank"><img src="https://img.shields.io/twitter/follow/subhamsharma210?logo=twitter&style=for-the-badge" alt="subhamsharma210" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subh8425&show_icons=true&locale=en" alt="subh8425" /></p>
 
